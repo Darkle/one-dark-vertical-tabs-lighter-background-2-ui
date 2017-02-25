@@ -1,8 +1,8 @@
 {
-  "name": "one-dark-vertical-tabs-ui",
+  "name": "one-dark-vertical-tabs-lighter-background-2-ui",
   "theme": "ui",
-  "version": "2.0.0",
-  "description": "Atom One dark Vertical Tabs UI theme",
+  "version": "0.0.1",
+  "description": "Atom One dark Vertical Tabs UI theme with a lighter ui background color",
   "keywords": [
     "dark",
     "adaptive",
@@ -11,7 +11,7 @@
     "tab"
   ],
   "license": "MIT",
-  "repository": "https://github.com/tiger4th/one-dark-vertical-tabs-ui",
+  "repository": "https://github.com/Darkle/one-dark-vertical-tabs-lighter-background-2-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"
